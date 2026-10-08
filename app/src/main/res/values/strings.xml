@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="enter_text">Enter text:</string>
+
+    <string name="sentences">Sentences</string>
+    <string name="words">Words</string>
+    <string name="chars">Chars</string>
+    <string name="numbers">Numbers</string>
+    <string name="count">Count</string>
+    <string name="empty_text_warning">Please enter some text</string>
+    <string name="count_result">Count: %1$d</string>
+</resources>
